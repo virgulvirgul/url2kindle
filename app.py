@@ -28,7 +28,7 @@ app = Flask(__name__)
 
 
 MERCURY_URL = 'https://mercury.postlight.com/parser'
-MERCURY_KEY = 
+MERCURY_KEY = os.environ.get("MERCURY_KEY")
 
 SMTP_SERVER = "email-smtp.us-east-1.amazonaws.com"
 SMTP_USERNAME = os.environ.get('SMTP_USERNAME')
