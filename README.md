@@ -24,3 +24,10 @@ heroku config:set MERCURY_KEY=... \
     SMTP_FROM_EMAIL=... \
     SMTP_TO_EMAIL=...
 ```
+
+  [mercury]: http://mercury.postlight.com/
+  [bs]: https://www.crummy.com/software/BeautifulSoup/
+  [blitz]: https://github.com/FriendsOfEpub/Blitz
+  [kindlegen]: https://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000765211
+  [ses]: https://aws.amazon.com/ses/
+  [free]: https://www.amazon.com/gp/help/customer/display.html/?nodeId=200767340
